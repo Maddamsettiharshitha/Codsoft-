@@ -1,0 +1,130 @@
+<html>
+    <head>
+        <title>PORTFOLIO</title>
+    </head>
+    <body>
+
+        <style>
+            body, html {
+              height: 100%;
+              margin: 0;
+              font-family: Arial, Helvetica, sans-serif;
+            }
+             .hero-image {
+            background-image: url("b2.jpg");
+              height:30%;
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              position: relative;
+            }
+            .hero-text {
+              text-align: center;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              color: rgb(242, 241, 245)55, 255, 255);
+            }
+        </style>
+            <div class="hero-image">
+            <div class="hero-text">
+            <h1 style="font-size:50px">I am Harshitha Maddamsetti</h1>
+            <p style="font-size:30px">May I Introduce Myself?</p>
+            </div>
+            </div>
+              </style>
+              <br>
+              
+             
+                  <table class="center">
+                    <tr>
+                      <th></th>
+                      <th></th>
+                   </tr>
+                   <tr background="b5.jpg">
+                      <td> <h1 style="font-size:40px"> &nbsp; &nbsp; &nbsp;Hi,I'm Harshitha</h1><p style="font-size:35px">   &nbsp; &nbsp; &nbsp;Frontend Developer</p><p style="font-size:25px">  &nbsp; &nbsp; &nbsp; &nbsp;The first essential skill for front-end developers is HTML.I had developed over 15 webpages <br> &nbsp; &nbsp; &nbsp; &nbsp;using HTML and collaborated with designers to develop user-friendly websites.Developed <br> &nbsp; &nbsp; &nbsp; &nbsp;and maintained websites and high-performance web applications for a variety of purpose <br> &nbsp; &nbsp; &nbsp;  &nbsp;using HTML,CSS & JAVASCRIPT according to W3C standards.</p></td>
+                      <td> <center><img src="InShot_20240402_205430635 (1).jpg" width="500" height="500"> </center></td>
+                   </tr>
+                   </table>
+                   <br>
+                   <br>
+                   <br>
+                   <style>
+                    body, html {
+                      height: 100%;
+                      margin: 0;
+                      font-family: Arial, Helvetica, sans-serif;
+                    }
+                     .img1 {
+                    background-image: url("b1.jpg");
+                      height:80%;
+                      background-position: center;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      position: relative;
+                    }
+                    .txt1 {
+                      
+                      position: absolute;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      color: black;
+                    }
+                </style>
+                    <div class="img1">
+                    <div class="txt1">
+                    <h1 style="color:green;">Courses &Certifications :</h1>
+                    <p style="font-size:27px">| &nbsp;&nbsp;I have efficient knowledge about HTML,CSS & JAVASCRIPT to<br>&nbsp;&nbsp;&nbsp; create websites.<br>
+                    |&nbsp;&nbsp;I have completed certification course on python(programming<br>&nbsp;&nbsp; fundamentals using python part -1,2)offered by <br>&nbsp;&nbsp;&nbsp;InfosysSpringboard. <br>
+                    |&nbsp;&nbsp;I have basic knowledge about python ,I can perform various<br>&nbsp;&nbsp;&nbsp; operations on python.<br>
+                    |&nbsp;&nbsp;And also completed by certification course on GitHub tutorial<br>&nbsp;&nbsp;&nbsp;offered by Great Learning.<br>
+                    |&nbsp; &nbsp;I have successfully completed the certification course on Time<br>&nbsp;&nbsp; Complexieties and javascript offered by CodeChef.
+                    </div>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <style>
+                      body, html {
+                        height: 100%;
+                        margin: 0;
+                        font-family: Arial, Helvetica, sans-serif;
+                      }
+                       .img2 {
+                      background-image: url("b6.jpg");
+                        height:80%;
+                        background-position: center;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                        position: relative;
+                      }
+                      .txt2 {
+                        
+                        position: absolute;
+                        top: 50%;
+                        left: 50%;
+                        transform: translate(-50%, -50%);
+                        color: black;
+                      }
+                      
+                      
+                  </style>
+                      <div class="img2">
+                      <div class="txt2">
+                      <h1 style="color:indigo;">Contact Info:</h1>
+                      <p style="font-size:27px"> | &nbsp;Education :Currently Pursing 2nd B.Tech in Computer Science 
+                        <br> &nbsp;&nbsp;&nbsp;and Engineering.<br>
+                        | &nbsp;Institution : Sasi Institute Of Technology and Engineering <br> &nbsp;&nbsp;Tadellapalligudem-534101 ,Andhra Pradesh, India.<br>
+                        | &nbsp;E-mail : harshitha.maddasmsetti@sasi.ac.in<br>
+                        | &nbsp;Address : Relangi-534225,Tanuku,West Godavari,Andhra <br> &nbsp;&nbsp; Pradesh,India.<br>
+                        | &nbsp;LinkedIn: <a href="https://www.linkedin.com/in/harshitha-maddamsetti-b66698280/" > link-harshitha-maddamsetti-b66698280 </a>
+
+                      </div>
+                      </div>
+                      </div>
+                    
+                   
+      </body>
+</html>
